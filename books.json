@@ -1,0 +1,25 @@
+{
+    "Cultura general" : [
+        {"name" : "The Art of War", "Auth" : "Sun Tzu"},
+        {"name" : "Divine Comedy", "Auth" : "Dante Alighieri"},
+        {"name" : "Don Quixote", "Auth" : "Miguel de Cervantes"},
+        {"name" : "Odyssey", "Auth" : "Homer"},
+        {"name" : "Jonathan Livingston Seagull", "Auth" : "Richard Bach"},
+        {"name" : "Ilusiones", "Auth" : "Richard Bach"},
+        {"name" : "The Old Man and the Sea", "Auth" : "Ernest Hemingway"}
+    ],
+    "Para pensar" : [
+        {"name" : "The System of the World", "Auth" : "Isaac Newton Sr."},
+        {"name" : "The Grand Design", "Auth" : "Stephen Hawking"},
+        {"name" : "The Nature of Space and Time", "Auth" : "Stephen Hawking"},
+        {"name" : "Prime Obsession", "Auth" : "John Derbyshire"},
+        {"name" : "The Man Who Loved Only Numbers", "Auth" : "Paul Hoffman"}
+    ],
+    "Para distraer" : [
+        {"name" : "Bartimaeus Sequence", "Auth" : "Jonathan Stroud"},
+        {"name" : "The Demonata", "Auth" : "Darren Shan, Maren Schwarz"},
+        {"name" : "Septimus Heap", "Auth" : "Angie Sage"},
+        {"name" : "One Hundred Years of Solitude", "Auth" : "Gabriel García Márquez"},
+        {"name" : "Memories of My Melancholy Whores", "Auth" : "Gabriel García Márquez"}
+    ]
+}
